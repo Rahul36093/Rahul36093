@@ -38,7 +38,7 @@ class Rectangle implements Shape {
     }
 }
 
-public class Main {
+public class Interface {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
